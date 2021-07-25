@@ -3,11 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alokkumar0723&label=Profile%20views&color=0e75b6&style=flat" alt="alokkumar0723" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alokkumar0723" alt="alokkumar0723" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/alokkumar0723" target="blank"><img src="https://img.shields.io/twitter/follow/alokkumar0723?logo=twitter&style=for-the-badge" alt="alokkumar0723" /></a> </p>
 
-- 🔭 I’m currently working on **Front-end web development**
+- 🔭 I’m currently working on **Full Stack Development**
 
 - 🌱 I’m currently learning **JavaScript & DSA**
 
@@ -16,10 +14,6 @@
 - 📫 How to reach me **alokkumar0723@gmail.com**
 
 - ⚡ Fun fact **😄 Pronouns: He/His**
-
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
